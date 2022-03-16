@@ -1,10 +1,13 @@
 ﻿**I'd love to join a team!** 
+ 
 I believe that I can contribute to the development of the smart contracts & basic front-end application, as well as contributing well-thought ideas. I may struggle with the UI/UX design as well as some of the advanced programming. In addition to specific knowledge writing smart contracts that interact with the Chainlink oracle provider, I am familiar working with: Hardhat, Solidity, Ethers.js, Chai-Waffle & Mocha, React/Next.js, & Typescript. 
 
 **About me**
+
 I'm Colin and I go to Berkeley City College where I  study programming & electrical engineering. I got interested in blockchain technology and programming ethereum smart contracts last spring. I've hacked together a few dApps (most recently last Fall) and have won a few hackathon prizes for them (can be viewed on my Devpost profile [@colinsteidtmann](devpost.com/colinsteidtmann)). Beginning in 2022, I took a break from the blockchain world to instead focus on studying C++ & Assembly language programming. I am now easing back into the blockchain world, starting with this hackathon. 
 
 **My hackathon ideas**
+
 **1.)** *Decentralized health insurance for bike racer. Niche market but strong demand.* 
 
 **2.)** *NFT financial Options for physical products/services. Eg: NFT Option for a Water Heater.* 
